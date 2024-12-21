@@ -61,6 +61,7 @@ Here there are some importants instruction :
 
 *  **Prefix** : is the directory where wine works, it can be one for all your windows games ; but only if their dependencies don't conflicts with eachother . For safer use i recommend to create a unique prefix for each game.
 
-  
+### About me
+this is my first github project and i plan to expand it in the future. Please give me your feedback !
 
 *  **Runner** : The runner is the emulator that you can use to make windows games work on linux systems, you should use wine, but if you have and you're comfortable with it you can also try proton.
