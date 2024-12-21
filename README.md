@@ -1,6 +1,6 @@
 # LutrisWinInstaller
 
-A simple bash script to add and configure preinstalled Windows game to lutris.
+A simple bash script to add and configure preinstalled Windows games to lutris.
 
   
 
