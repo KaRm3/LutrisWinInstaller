@@ -37,7 +37,7 @@ The script will check if any of these is missing.
 
 ## Usage
 
-Double click the "install.sh" or open the terminal and type "./install.sh" without quotes, then you can execute the script like any other commands simply typing in the terminal "gameinstall".
+Copy the repository with 'git cloneDouble click the "install.sh" or open the terminal and type "./install.sh" without quotes, then you can execute the script like any other commands simply typing in the terminal "gameinstall".
 
   
 
