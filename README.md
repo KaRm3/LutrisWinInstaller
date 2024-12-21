@@ -12,11 +12,13 @@ This bash script automatically configure preinstalled windows games on lutris wi
 
 ## Index
 
-- [requirements] (#Requirements)
+- [Requirements](#requirements)
 
-- [usage] (#Usage)
+- [Usage](#usage)
 
-- [IMPORTANT!] (#READ THIS!)
+- [IMPORTANT!](#important)
+
+- [About me](#about-me)
 
   
   
@@ -41,7 +43,7 @@ Copy the repository with 'git clone https://github.com/KaRm3/LutrisWinInstaller.
 
   
 
-# READ THIS !
+# IMPORTANT!
 
 Here there are some importants instruction :
 
